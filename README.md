@@ -1,2 +1,2 @@
 # Nand2Tetris 
-Building a modern computer from scratch. Following from Coursera.
+Building a modern computer from scartch. Following from coursera
